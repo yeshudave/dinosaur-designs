@@ -1,6 +1,6 @@
 html {
   background-color: #f2f1ed;
-  font-family: 'Patua One', cursive;
+  font-family: Georgia, serif;
   line-height: 1.5;
 }
 
@@ -9,11 +9,13 @@ img {
 }
 
 h1, h2 {
+  font-family: 'Patua One', cursive;
   color: #5d8432;
   text-transform: uppercase;
 }
 
 figcaption {
+  font-family: Georgia, serif;
   font-size: .8rem;
   font-style: italic;
   text-align: center;
