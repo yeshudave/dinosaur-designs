@@ -9,7 +9,7 @@ img {
 }
 
 h1, h2 {
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -40,6 +40,6 @@ nav a:hover {
   text-decoration: underline;
 }
 
-.intro{
+.intro {
   font-size: 1rem;
 }
